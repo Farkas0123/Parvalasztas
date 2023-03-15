@@ -1,0 +1,7 @@
+D:\Programozás\11F\Parvalasztas\Párválasztás\Párválasztás\bin\Debug\Párválasztás.exe.config
+D:\Programozás\11F\Parvalasztas\Párválasztás\Párválasztás\bin\Debug\Párválasztás.exe
+D:\Programozás\11F\Parvalasztas\Párválasztás\Párválasztás\bin\Debug\Párválasztás.pdb
+D:\Programozás\11F\Parvalasztas\Párválasztás\Párválasztás\obj\Debug\Párválasztás.csproj.AssemblyReference.cache
+D:\Programozás\11F\Parvalasztas\Párválasztás\Párválasztás\obj\Debug\Párválasztás.csproj.CoreCompileInputs.cache
+D:\Programozás\11F\Parvalasztas\Párválasztás\Párválasztás\obj\Debug\Párválasztás.exe
+D:\Programozás\11F\Parvalasztas\Párválasztás\Párválasztás\obj\Debug\Párválasztás.pdb
